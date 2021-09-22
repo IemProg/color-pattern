@@ -24,7 +24,7 @@ environments with heavy smoke after a fire
 #### Publications: ####
 * Marouf I.E, Barras L, Karaimer H.C., Susstrunk S. (2021) "Unsupervised Joint Infrared-RGB Video Registration and Fusion", *London Imaging Meeting* (**LIM`21**), September 2021 [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf) [[bibtex]](./bib/Karaimer_Nguyen_LIM20.bib) 
 
-## Code, Data, and Supplemental Material ##
+#### Code, Data, and Supplemental Material ####
 
 Please download the code [here -- coming soon](https://IemProg.github.io/joint-unsupervised/).   
 
@@ -32,7 +32,7 @@ Please download the supplemental material [[pdf]](./paper/Joint_Unsupervised_Vid
 
 Please download the interactive poster slides [[pdf]](./paper/Joint_Unsupervised_Registration_and_Fusion_LIM2021_Interactive_Paper.pdf).
 
-## People ##
+#### People ####
 [Imad Eddine Marouf](https://IemProg.github.io/), 	imad.marouf (at) ip-paris.fr
 
 Lucas Barras, lucas.barras (at) epfl.ch
