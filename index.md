@@ -27,7 +27,9 @@ environments with heavy smoke after a fire
 ## Code, Data, and Supplemental Material ##
 
 Please download the code [here -- coming soon](https://IemProg.github.io/joint-unsupervised/).   
+
 Please download the supplemental material [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf).
+
 Please download the interactive poster slides [[pdf]](./paper/Joint_Unsupervised_Registration_and_Fusion_LIM2021_Interactive_Paper.pdf).
 
 ## People ##
