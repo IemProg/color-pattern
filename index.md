@@ -4,7 +4,7 @@ title: Unsupervised Joint Infrared-RGB Video Registration and Fusion
 description: Project Site of LIM Paper "Unsupervised Joint Infrared-RGB Video Registration and Fusion"
 author: Imad Eddine MAROUF
 ---
-![](./image/sample1.PNG) ![](./image/sample2.PNG)
+![](./image/RegAffine.PNG) ![](./image/SegmentationDiff.PNG)
 
 ### Abstract ###
 We present a system to achieve joint registration and fusion
@@ -39,4 +39,4 @@ Lucas Barras, lucas.barras (at) epfl.ch
 
 [Hakki Can Karaimer](https://karaimer.github.io/), 	hakki.karaimer (at) epfl.ch
 
-[Sabine Susstrunk](https://people.epfl.ch/sabine.susstrunk), 	Sabine.Susstrunk (at) epfl.ch
+[Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk), 	Sabine.Susstrunk (at) epfl.ch
