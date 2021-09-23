@@ -5,15 +5,13 @@ description: Project Site of LIM Paper "Unsupervised Joint Infrared-RGB Video Re
 author: Imad Eddine MAROUF
 ---
 ![IR-RGB registration with the VoxelMorph architecture and the affine
-network. When VoxelMorph (2nd and 3rd row) is trained with 𝜆 =
-0.6 and 𝜆 = 0.1, it poorly deforms the shape of the objects in the
+network. When VoxelMorph (2nd and 3rd row) is trained with λ =
+0.6 and λ = 0.1, it poorly deforms the shape of the objects in the
 image. When compared visually, the affine network (1st row)
 achieves better results.](./image/RegAffine.PNG) 
 
-![Our visualization method shows the IR image, RGB image,
-warped image, the difference between the RGB and IR image and the difference between the RGB and the warped image. This is useful when we
-work with the masked version of the images. Here we show an example of
-the visualization method on the masks](./image/SegmentationDiff.PNG)
+![Our visualization method shows the IR image, RGB image, warped image, the difference between the RGB and IR image and the difference between the RGB and the warped image. This is useful when we
+work with the masked version of the images. Here we show an example of the visualization method on the masks](./image/SegmentationDiff.PNG)
 
 ### Abstract ###
 We present a system to achieve joint registration and fusion
