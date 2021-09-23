@@ -8,7 +8,9 @@ author: Imad Eddine MAROUF
 network. When VoxelMorph (2nd and 3rd row) is trained with 𝜆 =
 0.6 and 𝜆 = 0.1, it poorly deforms the shape of the objects in the
 image. When compared visually, the affine network (1st row)
-achieves better results.](./image/RegAffine.PNG) ![Our visualization method shows the IR image, RGB image,
+achieves better results.](./image/RegAffine.PNG) 
+
+![Our visualization method shows the IR image, RGB image,
 warped image, the difference between the RGB and IR image and the difference between the RGB and the warped image. This is useful when we
 work with the masked version of the images. Here we show an example of
 the visualization method on the masks](./image/SegmentationDiff.PNG)
@@ -29,7 +31,7 @@ RGB and IR video pairs collected for firefighters to do their missions more effi
 environments with heavy smoke after a fire
 
 #### Publications: ####
-* Marouf I.E, Barras L, Karaimer H.C., Susstrunk S. (2021) "Unsupervised Joint Infrared-RGB Video Registration and Fusion", *London Imaging Meeting* (**LIM`21**), September 2021 [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf) [[bibtex]](./bib/Marouf_Karaimer_LIM21.bib) 
+* Marouf I.E, Barras L, Karaimer H.C., Süsstrunk S. (2021) "Unsupervised Joint Infrared-RGB Video Registration and Fusion", *London Imaging Meeting* (**LIM`21**), September 2021 [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf) [[bibtex]](./bib/Marouf_Karaimer_LIM21.bib) 
 
 #### Code, Data, and Supplemental Material ####
 
