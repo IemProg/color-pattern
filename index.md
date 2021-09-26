@@ -4,11 +4,13 @@ title: Unsupervised Joint Infrared-RGB Video Registration and Fusion
 description: Project Site of LIM Paper "Unsupervised Joint Infrared-RGB Video Registration and Fusion"
 author: Imad Eddine MAROUF
 ---
-![IR-RGB registration with the VoxelMorph architecture and the affine
+![](./image/RegAffine.PNG)
+IR-RGB registration with the VoxelMorph architecture and the affine
 network. When VoxelMorph (2nd and 3rd row) is trained with λ =
 0.6 and λ = 0.1, it poorly deforms the shape of the objects in the
 image. When compared visually, the affine network (1st row)
-achieves better results.](./image/RegAffine.PNG)
+achieves better results.
+
 
 ### Abstract ###
 We present a system to achieve joint registration and fusion
