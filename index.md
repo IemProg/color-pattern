@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unsupervised Joint Infrared-RGB Video Registration and Fusion
+title: Joint Unsupervised Infrared-RGB Video Registration and Fusion
 description: Project Site of LIM Paper "Unsupervised Joint Infrared-RGB Video Registration and Fusion"
 author: Imad Eddine MAROUF
 ---
@@ -32,7 +32,7 @@ tasks effectively in challenging visibility conditions such as heavy
 smoke after a fire.
 
 #### Publications: ####
-* Marouf I.E, Barras L, Karaimer H.C., Süsstrunk S. (2021) "Unsupervised Joint Infrared-RGB Video Registration and Fusion", *London Imaging Meeting* (**LIM`21**), September 2021 [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf) [[bibtex]](./bib/Marouf_Karaimer_LIM21.bib) 
+* Marouf I.E, Barras L, Karaimer H.C., Süsstrunk S. (2021) "Joint Unsupervised Infrared-RGB Video Registration and Fusion", *London Imaging Meeting* (**LIM`21**), September 2021 [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf) [[bibtex]](./bib/Marouf_Karaimer_LIM21.bib) 
 
 #### Code, Data, and Supplemental Material ####
 
