@@ -36,7 +36,7 @@ smoke after a fire.
 
 #### Code, Data, and Supplemental Material ####
 
-Please download the code [GitHub](https://github.com/IemProg/joint-unsupervised/).   
+Please download the code [GitHub](https://github.com/IemProg/Joint_unsupervised_video_registration_and_fusion).   
 
 Please download the supplemental material [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf).
 
