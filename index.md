@@ -13,26 +13,30 @@ achieves better results.
 
 
 ### Abstract ###
-We present a system to achieve joint registration and fusion
-of RGB and Infrared (IR) videos. While RGB is related to human perception, IR is related to the heat. However, IR images
-often lack good contour and texture information. An increasing number of researchers work on fusing visible and IR images
-to obtain more information from them, which requires two completely matched images. However, classical methods assuming
-ideal imaging conditions fail to achieve satisfactory performance
-in real cases. From the data-dependent modeling point of view,
-labeling the dataset is costly and impractical.
+We present a system to perform joint registration and fusion
+for RGB and Infrared (IR) video pairs. While RGB is related to
+human perception, IR is associated with heat. However, IR images often lack contour and texture information. The goal with
+the fusion of the visible and IR images is to obtain more information from them. This requires two completely matched images.
+However, classical methods assuming ideal imaging conditions
+fail to achieve satisfactory performance in actual cases. From
+the data-dependent modeling point of view, labeling the dataset
+is costly and impractical.
+
+
 In this context, we present a framework that tackles two
-challenging tasks. First, a video registration procedure aims to
-align IR and RGB videos. Second, a fusion method brings all
+challenging tasks. First, a video registration procedure that aims
+to align IR and RGB videos. Second, a fusion method brings all
 the essential information from the two video modalities to a single video. We evaluate our approach on a challenging dataset of
-RGB and IR video pairs collected for firefighters to do their missions more efficiently due to the difficulties in the vision, such as
-environments with heavy smoke after a fire
+RGB and IR video pairs collected for firefighters to handle their
+tasks effectively in challenging visibility conditions such as heavy
+smoke after a fire.
 
 #### Publications: ####
 * Marouf I.E, Barras L, Karaimer H.C., Süsstrunk S. (2021) "Unsupervised Joint Infrared-RGB Video Registration and Fusion", *London Imaging Meeting* (**LIM`21**), September 2021 [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf) [[bibtex]](./bib/Marouf_Karaimer_LIM21.bib) 
 
 #### Code, Data, and Supplemental Material ####
 
-Please download the code [here -- coming soon](https://IemProg.github.io/joint-unsupervised/).   
+Please download the code [GitHub](https://github.com/IemProg/joint-unsupervised/).   
 
 Please download the supplemental material [[pdf]](./paper/Joint_Unsupervised_Video_Registration_and_Fusion.pdf).
 
